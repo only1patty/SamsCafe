@@ -93,7 +93,7 @@ header .wrapper {
 	width: 100%;
 	height: 500px;
 	position: fixed;
-	background-image: url('catcafe.jpg');
+	background-image: url('/images/catcafe.jpg');
 	top: 100px;
 	opacity: 0.7;
 }
@@ -138,25 +138,25 @@ header .wrapper {
 	line-height: 50px;
 	border: 1px solid white;
 	flex-grow: 0.5;
-	background-image: url('drinks.jpg');
+	background-image: url('/images/drinks.jpg');
 	padding: 1vw;
 	margin: 2vw;
 	height: 50vh;
 }
 .drinks:hover{
-	background-image: url('drinkshover.jpg');
+	background-image: url('/images/drinkshover.jpg');
 }
 .foodmenu {
 	line-height: 50px;
 	border: 1px solid white;
-	background-image: url('food.jpg');
+	background-image: url('/images/food.jpg');
 	padding: 1vw;
 	margin: 2vw;
 	flex-grow: 0.5;
 	height: 50vh;
 }
 .foodmenu:hover{
-	background-image: url('foodhover.jpg');
+	background-image: url('/images/foodhover.jpg');
 }
 
 p {
