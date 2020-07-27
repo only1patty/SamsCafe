@@ -1,0 +1,1 @@
+This website was created by PC locally and pushed to Github on 7/27/2020. Then it was cloned later that day to my local desktop.
